@@ -6,4 +6,5 @@ To view JSON I use **jq**, *script will automatic download it*.
 
 You can get script in two versions
   > root version - if you don't have jq installed
+  > 
   > no root version - if you have jq installed
